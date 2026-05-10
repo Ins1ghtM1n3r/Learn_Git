@@ -1,2 +1,27 @@
 # Learn_Git
-Este é um repositório (de teste) que usei para o aprendizado do git
+Configuração do git
+
+Inicializar o git 
+
+git add
+
+git commit
+
+git status
+
+git log
+
+git diff
+
+git branch
+
+git switch <nameBranch>
+
+git merge
+
+git rm
+
+git remote add <name>
+
+git reverse
+
